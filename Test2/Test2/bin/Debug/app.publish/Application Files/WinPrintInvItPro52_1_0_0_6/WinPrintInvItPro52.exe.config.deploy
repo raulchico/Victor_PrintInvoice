@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Test2.Properties.Settings.INV5DATAConnectionString1"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\ProgramData\invoiceit!Pro52\INV5DATA.MDB"
+            providerName="System.Data.OleDb" />
+        <add name="Test2.Properties.Settings.INV5DATAConnectionString"
+            connectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\ProgramData\invoiceit!Pro52\INV5DATA.MDB"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+</configuration>

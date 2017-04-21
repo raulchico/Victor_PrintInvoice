@@ -1,0 +1,91 @@
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\bin\Debug\Test2.exe.config
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\bin\Debug\INV5DATA.MDB
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\bin\Debug\Test2.exe
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\bin\Debug\Test2.pdb
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\RdlCompile.cache
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\RdlCompile.compiled
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.exe
+C:\CierantProjects_TEST\test_Crystal\testCrystal2\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\bin\Debug\INV5DATA.MDB
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\RdlCompile.cache
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\RdlCompile.compiled
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\RaulPC1\Documents\Victor prov\Victor_Provisions\testCrystal2\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.pdb
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\bin\Debug\INV5DATA.MDB
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\RdlCompile.cache
+C:\Users\rchico\Documents\RaulFiles\Victor\INV_Print\Test2\Test2\obj\Debug\RdlCompile.compiled
+F:\Projects\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.exe.config
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.exe
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.pdb
+F:\Projects\Victor\INV_Print\Test2\Test2\bin\Debug\INV5DATA.MDB
+F:\Projects\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.exe
+F:\Projects\Victor\INV_Print\Test2\Test2\bin\Debug\Test2.pdb
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.Form1.resources
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\RdlCompile.cache
+F:\Projects\Victor\INV_Print\Test2\Test2\obj\Debug\RdlCompile.compiled
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Form1.resources
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.cache
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.compiled
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\Test2.exe.config
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.exe
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.pdb
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\INV5DATA.MDB
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\Test2.exe
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\Test2.pdb
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Form1.resources
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.cache
+D:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.compiled
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Form1.resources
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.cache
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\RdlCompile.compiled
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe.config
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe.manifest
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.application
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.pdb
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.exe.manifest
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.application
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.exe
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.pdb
+G:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe.config
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.exe
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.pdb
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe.manifest
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.application
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.pdb
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.exe.manifest
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.application
+F:\Projects\Victor\WinPrintInvoice\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Raul_files\r files\WinPrintInvoice\Test2\Test2\bin\Debug\WinPrintInvItPro52.exe.config
+C:\Raul_files\r files\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.exe
+C:\Raul_files\r files\WinPrintInvoice\Test2\Test2\obj\Debug\WinPrintInvItPro52.pdb
